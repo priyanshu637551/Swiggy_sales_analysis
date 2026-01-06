@@ -11,8 +11,8 @@ The main focus of this project is data understanding, transformation, and correc
 ## Dashboard Overview
 Add the dashboard overview image below.
 
-![Dashboard Overview](<img width="1159" height="645" alt="Screenshot 2026-01-06 185420" src="https://github.com/user-attachments/assets/536f84e1-2631-494a-875f-c988a9cc79a1" />
-)
+<img width="1159" height="645" alt="Screenshot 2026-01-06 185420" src="https://github.com/user-attachments/assets/536f84e1-2631-494a-875f-c988a9cc79a1" />
+
 
 ---
 
