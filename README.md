@@ -108,16 +108,4 @@ This dashboard helps answer key business questions such as:
 - Avoiding redundancy using relationships
 - Controlling aggregation logic through DAX measures
 
----
 
-## How to Use
-1. Clone the repository
-2. Open the Power BI PBIX file
-3. Refresh the data sources if required
-4. Explore the dashboard using slicers and filters
-
----
-
-## Note
-This project was rebuilt from scratch for learning and interview preparation.
-All transformations and modeling decisions are fully understood and explainable.
